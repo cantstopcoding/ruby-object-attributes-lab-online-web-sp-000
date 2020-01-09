@@ -1,7 +1,8 @@
 class Person
   def job=(job)
     @job = job
-  end 
+  end
+end 
   
   def job 
     @job
